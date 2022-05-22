@@ -31,7 +31,7 @@ Code has been updated to handle Frigidaire's new app, which uses a new backend A
 
 ## How to install
 
- ```sudo npm install -g homebridge-frigidaire```
+ ```sudo npm install -g homebridge-frigidaire_ns```
 
 ## Debug
 If you're having problems, please enable debug and paste all output to the ticket.  To enable debug, run homebridge with the ```DEBUG``` set.
