@@ -18,7 +18,7 @@ module.exports = function (homebridge) {
 
   Characteristic = homebridge.hap.Characteristic;
 
-  homebridge.registerPlatform("homebridge-frigidaire", "Frigidaire", FrigidairePlatform, false);
+  homebridge.registerPlatform("homebridge-frigidaire_ns", "Frigidaire", FrigidairePlatform, false);
 };
 
 function FrigidairePlatform(log, config) {
